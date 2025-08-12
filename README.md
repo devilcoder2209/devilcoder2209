@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **C++,C**
+- 💬 Ask me about **C++,C,Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
